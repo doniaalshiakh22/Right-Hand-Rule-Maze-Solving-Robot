@@ -82,7 +82,7 @@ Where:
 - **Kd (Derivative)**: Anticipates future errors to apply corrective actions.
 
 ### PID Constants Used:
-```cpp
+
 const float Kp = 1.0;
 const float Ki = 0.005;
 const float Kd = 0.25;
